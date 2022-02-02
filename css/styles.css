@@ -1,0 +1,18 @@
+body{
+    color:white;
+    }
+.PaddingContact{
+    padding:40px;
+    }
+                    
+th{
+    font-size: larger;
+    }
+tr, td{
+    font-size: larger;
+    }
+
+.BorderProPic{
+     border-radius: 50%;
+      border: blue solid 2px 
+    }
